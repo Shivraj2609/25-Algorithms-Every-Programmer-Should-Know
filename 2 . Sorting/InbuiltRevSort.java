@@ -25,7 +25,7 @@ public class InbuiltRevSort {
     }
 }
 
-*/The provided Java program demonstrates how to use the `Arrays.sort` method along with `Collections.reverseOrder()` to sort an array of integers in descending order. Here's a short description of its working:
+/*The provided Java program demonstrates how to use the `Arrays.sort` method along with `Collections.reverseOrder()` to sort an array of integers in descending order. Here's a short description of its working:
 
 1. An array of integers `arr` is created, containing the values {64, 25, 12, 22, 11}.
 
@@ -37,4 +37,4 @@ public class InbuiltRevSort {
 
 5. The `printArray` method is a utility function that prints the elements of an Integer array, separated by spaces.
 
-As a result, the program will output the original array followed by the sorted array, showing the elements in descending order./*
+As a result, the program will output the original array followed by the sorted array, showing the elements in descending order.*/
